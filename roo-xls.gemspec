@@ -20,7 +20,7 @@ Gem::Specification.new do |spec|
 
   spec.required_ruby_version  = ">= 2.3.0"
 
-  spec.add_dependency "roo", ">= 2.0.0", "< 3"
+  spec.add_dependency "roo", ">= 2.0.0"
   spec.add_dependency "spreadsheet", "> 0.9.0"
 
   spec.add_dependency "nokogiri"
